@@ -1,0 +1,1 @@
+Saltstack pillar config location
