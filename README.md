@@ -1,1 +1,1 @@
-Saltstack pillar config location
+# Files have been moved to a private gitlab project #
